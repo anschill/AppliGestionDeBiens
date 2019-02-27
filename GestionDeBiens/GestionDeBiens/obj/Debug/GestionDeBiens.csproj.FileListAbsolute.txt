@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Evaluation\GestionDeBiens\GestionDeBiens\bin\Debug\GestionDeBiens.exe.config
+C:\Users\Moi\Desktop\Evaluation\GestionDeBiens\GestionDeBiens\bin\Debug\GestionDeBiens.exe
+C:\Users\Moi\Desktop\Evaluation\GestionDeBiens\GestionDeBiens\bin\Debug\GestionDeBiens.pdb
+C:\Users\Moi\Desktop\Evaluation\GestionDeBiens\GestionDeBiens\obj\Debug\GestionDeBiens.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Evaluation\GestionDeBiens\GestionDeBiens\obj\Debug\GestionDeBiens.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Evaluation\GestionDeBiens\GestionDeBiens\obj\Debug\GestionDeBiens.exe
+C:\Users\Moi\Desktop\Evaluation\GestionDeBiens\GestionDeBiens\obj\Debug\GestionDeBiens.pdb
